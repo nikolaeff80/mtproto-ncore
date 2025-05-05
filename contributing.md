@@ -1,3 +1,3 @@
-# Contributing to @mtproto/core
+# Contributing to @mtproto/ncore
 
 WIP
