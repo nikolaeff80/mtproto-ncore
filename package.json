@@ -20,10 +20,10 @@
   ],
   "homepage": "https://mtproto-core.js.org/",
   "bugs": {
-    "url": "https://github.com/alik0211/mtproto-core/issues"
+    "url": "https://github.com/nikolaeff80/mtproto-ncore/issues"
   },
   "author": "Ali Gasymov <alik0211alik@gmail.com> (https://gasymov.com/)",
-  "repository": "github:alik0211/mtproto-core",
+  "repository": "github:nikolaeff80/mtproto-ncore",
   "files": [
     "/envs",
     "/src"
