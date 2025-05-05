@@ -1,4 +1,4 @@
-# @mtproto/ncore
+# @mt-proto/ncore
 
 [![NPM](https://img.shields.io/npm/v/@mt-proto/ncore.svg?style=flat-square)](https://www.npmjs.com/package/@mt-proto/ncore)
 [![Downloads](https://img.shields.io/npm/dm/@mt-proto/ncore?style=flat-square)](https://www.npmjs.com/package/@mt-proto/ncore)
