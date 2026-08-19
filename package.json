@@ -25,7 +25,10 @@
     "url": "https://github.com/nikolaeff80/mtproto-ncore/issues"
   },
   "author": "Ali Gasymov <alik0211alik@gmail.com> (https://gasymov.com/)",
-  "repository": "github:nikolaeff80/mtproto-ncore",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikolaeff80/mtproto-ncore.git"
+  },
   "files": [
     "/envs",
     "/src"
