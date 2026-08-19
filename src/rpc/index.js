@@ -577,7 +577,7 @@ class RPC {
     const initConnectionParams = {
       api_id,
       device_model: '@mtproto/ncore',
-      system_version: '6.5',
+      system_version: '6.6',
       app_version: '1.0.0',
       system_lang_code: 'en',
       lang_code: 'en',
@@ -585,7 +585,7 @@ class RPC {
     };
 
     const serializer = new Serializer(builderMap.invokeWithLayer, {
-      layer: 214,
+      layer: 223,
       query: {
         _: 'initConnection',
         ...initConnectionParams,
